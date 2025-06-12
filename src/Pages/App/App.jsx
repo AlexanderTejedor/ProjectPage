@@ -1,7 +1,9 @@
+import { Home } from "../Home/Home.jsx";
+
 function App() {
   return (
     <>
-      <p>Hola</p>
+      <Home />
     </>
   );
 }
